@@ -1,0 +1,17 @@
+Variables: Piensa en una cajita donde puedes guardar un numero, luego agarraras dos cajitas de este tipo y guardas dos números.
+finalmente, piensa en una tercera cajita, donde puedes meter esos dos números y sumarlos, restarlos o multiplicarlos.
+Eso es lo que es un espacio en la memoria de una computadora y los números y las operaciones son las variables.
+
+Strings: Bueno, ya te expliqué el concepto de variable, ahora imagina que en esas cajitas tambien puedes almacenar letras y palabras,
+eso es lo que se conoce como string.
+
+Funciones: ¿Recuerdas las operaciones que te conté que podías hacer en las cajitas? bueno, ahora imaginate que una de esas cajitas se,
+llama suma, y dentro hay dos variables con valor 0, y que tu puedes usar esa cajita para cambiar los valores de los números de forma infinita.
+Una funcion es una cajita que puedes reutilizar muchas veces.
+
+If: ¿cuando tu te levantas qué es lo primero que te enseñaron tus padres? Lo primero que debes hacer es cepillarte los dientes, de lo 
+contrario no tienes permitido comer, eso es lo que se conoce como condicinal. Así funciona la expresión if, no permite que un programa ejecute una tarea, a menos que se cumpla 
+una condición. 
+
+Booleanos: En las cajitas también puedes almacenar variables que pueden ser verdaderas o falsas, y las puedes usar para decir que es
+cierto que 2 + 2 = 4, como tambien que 2 + 2 = 5 es falso.
