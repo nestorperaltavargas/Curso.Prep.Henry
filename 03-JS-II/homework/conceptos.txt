@@ -1,0 +1,8 @@
+for: imagina ahora, que hay 9 cajitas de las que mencionamos anteriomente, cada una con su valor, y hay una rayita inteligente
+que pasa por cada una de ellas para preguntarles su valor y recordar cual eso ocurre en el bucle for, hay una variable que recorre
+cada cajita y almacena durante un periodo de tiempo, el valor de cada cajita.
+
+&&, ||, !: ¿recuerdas las condiciones no? Bueno ahora imagina que tus padres se pusieron más estrictos durante la semana, pero durante
+el fin de semana son más flexibles. De lunes a viernes te agregaron otra condición, si no te has cepillado, y no estás listo para el cole,
+entonces no puedes desayunar, eso es "and". Mientras que los fines de semana solo se tiene  que cumplir una de estas condiciones eso es "or".
+por otro lado el signo de exclamación antes de un signo, significa todo lo contrario.
