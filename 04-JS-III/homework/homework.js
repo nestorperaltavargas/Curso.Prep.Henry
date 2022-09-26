@@ -81,6 +81,12 @@ function agregarNumeros(numeros) {
   // "numeros" debe ser un arreglo de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
+  let nunmeros = [1,2,3,4,5];
+  let sum = 0;
+  for(let i = 0; i < numeros.length; i++){
+    sum =+ numeros[i];
+  }
+  return sum;
 }
 
 
@@ -88,13 +94,23 @@ function promedioResultadosTest(resultadosTest) {
   // "resultadosTest" debe ser una matriz de enteros (int/integers)
   // Itera (en un bucle) los elementos del array, calcula y devuelve el promedio de puntajes
   // Tu código:
+  let resultadosTest = [10,9,8,10,9,8];
+  let sum = 0;
+  let promedio;
+  for(let i = 0; i < resultadosTest.length; i++){
+    sum =+ resultadosTest[i];
+  }
+  promedio = sum / resultadosTest.length;
+  return promedio;
 }
-
 
 function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
   // Tu código:
+  let nunmeros = [1,2,3,4,5];
+  let max = Math.max(numeros);
+  return max;
 }
 
 
